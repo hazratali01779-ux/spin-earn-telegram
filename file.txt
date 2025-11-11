@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Spin & Earn — Telegram Mini</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <script src="//libtl.com/sdk.js" data-zone="10172273" data-sdk="show_10172273"></script>
+</head>
+<body>
+  <h2>🎰 Spin & Earn Mini Bot</h2>
+  <button onclick="show_10172273().then(()=>alert('Ad watched!'))">Watch Ad</button>
+</body>
+</html>
